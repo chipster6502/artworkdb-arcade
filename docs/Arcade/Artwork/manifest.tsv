@@ -595,7 +595,7 @@ cdiscon1	box-3D	162
 cdracula	box-3D	173
 cdsteljn	box-3D	162
 cecmatch	box-3D	75
-centiped	box-2D	160
+centiped	mixrbv2	160
 cerberus	box-3D	192
 cexplore	box-3D	162
 cfarm	box-3D	75
@@ -2626,7 +2626,7 @@ myangel2	box-3D	155
 myangel3	box-3D	155
 myfairld	box-3D	69
 myhero	box-3D	147
-mysticm	box-2D	150
+mysticm	mixrbv2	150
 mysticri	box-3D	148
 mystston	box-3D	169
 mystwarr	box-3D	158
@@ -3745,7 +3745,6 @@ spcking2	box-3D	158
 spclforc	box-3D	161
 spclords	box-3D	160
 spcpostn	box-3D	147
-spcwarp	mixrbv2	179
 spdball	box-3D	75
 spdcoin	box-3D	158
 spdheat	box-3D	157
