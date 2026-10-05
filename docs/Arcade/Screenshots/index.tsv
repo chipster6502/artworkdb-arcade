@@ -793,7 +793,6 @@ batlballo			senkyu
 batlballpt			senkyu
 batlballu			senkyu
 batlbubl			bangball
-batlgear			batlgear
 batlgr2			batlgr2
 batlgr2a			batlgr2
 batlzone			mayday
@@ -1120,7 +1119,6 @@ bmcorerm			bmcorerm
 bmcpokr			bmcpokr
 bmdct			bmdct
 bmfinal			bmfinal
-bmiidx			bmiidx
 bmiidx2			bmiidx2
 bmiidx3			bmiidx3
 bmiidx3a			bmiidx3
@@ -1132,7 +1130,6 @@ bmiidx6a			bmiidx6
 bmiidx7			bmiidx7
 bmiidx7a			bmiidx7
 bmiidx8			bmiidx8
-bmiidxa			bmiidx
 bmiidxc			bmiidxc
 bmiidxc2			bmiidxc2
 bmiidxca			bmiidxc
@@ -1518,7 +1515,6 @@ caspokera			caspoker
 caspokerb			caspoker
 castfant			castfant
 catacomb			catacomb
-catapult			catapult
 catch22			combat
 catchp			catchp
 caterplr			centiped
@@ -1859,8 +1855,6 @@ cocean6b			cocean1a
 cocoloco			cocoloco
 cocolocoa			cocoloco
 cocolocob			cocoloco
-code1d			code1d
-code1db			code1d
 codemagik			codemagik
 colision			headon
 colmns97			colmns97
@@ -1929,9 +1923,7 @@ coolridr			coolridr
 coozumou			coozumou
 cop01			cop01
 cop01a			cop01
-cops			cops
 copsnrob			copsnrob
-copsuk			cops
 cosmccop			cosmccop
 cosmica			cosmica
 cosmica1			cosmica
@@ -3209,9 +3201,6 @@ fantjour			fantjour
 fantjoura			fantjour
 fantland			fantland
 fantlanda			fantland
-fantsia2			fantsia2
-fantsia2a			fantsia2
-fantsia2n			fantsia2
 fantstry			fantstry
 fantstrya			fantstry
 fantsy95			newfant
@@ -4244,7 +4233,6 @@ gticluba			gticlub
 gticlubj			gticlub
 gticlubu			gticlub
 gtipoker			gtipoker
-gtipokra			gtipokra
 gtipokrb			gtipoker
 gtipokrba			gtipoker
 gtipokrc			gtipoker
@@ -4269,10 +4257,6 @@ gtrfrk2ml2			gtrfrk2m
 gtrfrk2mua			gtrfrk2m
 gtrfrk3m			gtrfrk3m
 gtrfrk4m			gtrfrk4m
-gtrfrk5m			gtrfrk5m
-gtrfrk5ma			gtrfrk5m
-gtrfrk6m			gtrfrk6m
-gtrfrk7m			gtrfrk7m
 gtrfrk8m			gtrfrk8m
 gtrfrk8ma			gtrfrk8m
 gtrfrk9m			gtrfrk9m
@@ -5079,8 +5063,6 @@ joyjoy			joyjoy
 joyman			puckman
 joystand			joystand
 jpark			jpark
-jpark3			jpark3
-jpark3u			jpark3
 jparkj			jpark
 jparkja			jpark
 jparkjc			jpark
@@ -5935,8 +5917,6 @@ makyosen			gondo
 maletmad			maletmad
 malzak			malzak
 malzak2			malzak
-mamboagg			mamboagg
-mamboagga			mamboagg
 mamonoro			mamonoro
 mandinga			amidar
 mandingac			amidar
@@ -6436,8 +6416,6 @@ mmsikaku			mjsikaku
 mnchmobl			joyfulr
 mnight			mnight
 mnightj			mnight
-mocapb			mocapb
-mocapbj			mocapb
 moegonta			ladykill
 moeru			moeru
 mofflott			mofflott
@@ -7330,10 +7308,6 @@ outfxiesj			outfxies
 outfxiesja			outfxies
 outline			radarzon
 outr2			outr2
-outr2st			outr2st
-outr2stj			outr2st
-outr2stjo			outr2st
-outr2sto			outr2st
 outrun			outrun
 outrunb			outrun
 outrundx			outrun
@@ -10182,7 +10156,7 @@ slapshot			slapshot
 slapshotj			slapshot
 slapshtr			slapshtr
 slasho			slasho
-slashout			slashout
+slashout			slasho
 slipstrm			slipstrm
 slipstrmh			slipstrm
 slither			slither
@@ -10846,10 +10820,8 @@ stratvoxa			speakres
 stratvoxb			speakres
 streakng			streakng
 streaknga			streakng
-streetg			streetg
 streetg2			streetg2
 streetg2r5			streetg2
-streetgr3			streetg
 streetsm			streetsm
 streetsm1			streetsm
 streetsmj			streetsm
@@ -11350,10 +11322,6 @@ thoopnna			thoop
 thoopnnaa			thoop
 threeds			threeds
 threedsa			threeds
-thrild2			thrild2
-thrild2a			thrild2
-thrild2c			thrild2
-thrild2j			thrild2
 thrilld			thrilld
 thrillda			thrilld
 thrilldab			thrilld
@@ -12266,8 +12234,6 @@ wacko			wacko
 waidrive			waidrive
 wakuwak7			wakuwak7
 wallst			wallst
-wangmid			wangmid
-wangmidj			wangmid
 wanted			wanted
 wantsega			wantsega
 warahana			warahana
@@ -12345,8 +12311,6 @@ wboysys2			wboy
 wboysys2a			wboy
 wboyu			wboy
 wboyub			wboy
-wcat3			wcat3
-wcat3a			wcat3
 wcatcher			wcatcher
 wcbowl			wcbowl
 wcbowl10			wcbowl
@@ -12370,7 +12334,6 @@ wccf310j			wccf310j
 wccf322e			wccf310j
 wccf331e			wccf310j
 wccf420e			wccf420e
-wcherry			wcherry
 wcvol95			wcvol95
 wcvol95j			wcvol95
 wcvol95x			wcvol95
@@ -12785,8 +12748,6 @@ zookeep3			zookeep
 zookeepbl			zookeep
 zoom909			buckrog
 zooo			zooo
-zortonbr			zortonbr
-zortonbr_100			zortonbr
 zuanshi2			sstar97
 zunkyou			zunkyou
 zunou			zunou

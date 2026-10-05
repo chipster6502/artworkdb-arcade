@@ -272,7 +272,6 @@ basebal2	ss	192	lossless
 basschal	ss	53	lossless
 bassdx	ss	55	lossless
 batcir	ss	7	lossless
-batlgear	ss	157	lossless
 batlgr2	ss	157	lossless
 batman	ss	160	lossless
 batmanfr	ss	69	lossless
@@ -420,7 +419,6 @@ bmcorerm	ss	158	lossless
 bmcpokr	ss	75	lossless
 bmdct	ss	158	lossless
 bmfinal	ss	158	lossless
-bmiidx	ss	158	lossless
 bmiidx2	ss	158	lossless
 bmiidx3	ss	158	lossless
 bmiidx4	ss	158	lossless
@@ -570,7 +568,6 @@ cashquiz	ss	158	lossless
 caspoker	ss	75	lossless
 castfant	ss	162	lossless
 catacomb	ss	158	lossless
-catapult	ss	75	lossless
 catchp	ss	160	lossless
 catnmous	ss	150	lossless
 cavelon	ss	179	lossless
@@ -712,7 +709,6 @@ cobra	ss	49	lossless
 cobracom	ss	162	lossless
 cocean1a	ss	162	lossless
 cocoloco	ss	75	lossless
-code1d	ss	158	lossless
 codemagik	ss	75	lossless
 colmns97	ss	69	lossless
 colony7	ss	157	lossless
@@ -743,7 +739,6 @@ coolpool	ss	75	lossless
 coolridr	ss	147	lossless
 coozumou	ss	162	lossless
 cop01	ss	180	lossless
-cops	ss	160	lossless
 copsnrob	ss	160	lossless
 cosmccop	ss	148	lossless
 cosmica	ss	188	lossless
@@ -1215,7 +1210,6 @@ fantastc	ss	157	lossless
 fantasyu	ss	154	lossless
 fantjour	ss	158	lossless
 fantland	ss	75	lossless
-fantsia2	ss	177	lossless
 fantstry	ss	75	lossless
 fantzn2	ss	147	lossless
 fantzn2x	ss	147	lossless
@@ -1561,15 +1555,11 @@ gtg	ss	193	lossless
 gtg2	ss	193	lossless
 gticlub	ss	158	lossless
 gtipoker	ss	75	lossless
-gtipokra	ss	75	lossless
 gtmr	ss	174	lossless
 gtmr2	ss	174	lossless
 gtrfrk2m	ss	158	lossless
 gtrfrk3m	ss	158	lossless
 gtrfrk4m	ss	158	lossless
-gtrfrk5m	ss	158	lossless
-gtrfrk6m	ss	158	lossless
-gtrfrk7m	ss	158	lossless
 gtrfrk8m	ss	158	lossless
 gtrfrk9m	ss	158	lossless
 gtrfrks	ss	158	lossless
@@ -1893,7 +1883,6 @@ joyfulr	ss	154	lossless
 joyjoy	ss	142	lossless
 joystand	ss	75	lossless
 jpark	ss	147	lossless
-jpark3	ss	158	lossless
 jpopnics	ss	157	lossless
 jppyex98	ss	158	lossless
 jrpacman	ss	150	lossless
@@ -2231,7 +2220,6 @@ majtitle	ss	148	lossless
 makaijan	ss	173	lossless
 maletmad	ss	75	lossless
 malzak	ss	75	lossless
-mamboagg	ss	158	lossless
 mamonoro	ss	56	lossless
 mangchi	ss	163	lossless
 maniach	ss	157	lossless
@@ -2444,7 +2432,6 @@ mmonkey	ss	169	lossless
 mmpanic	ss	157	lossless
 mmpork	ss	47	lossless
 mnight	ss	75	lossless
-mocapb	ss	158	lossless
 moeru	ss	227	lossless
 mofflott	ss	157	lossless
 mogitate	ss	180	lossless
@@ -2802,7 +2789,6 @@ otrigger	ss	56	lossless
 otwalls	ss	150	lossless
 outfxies	ss	155	lossless
 outr2	ss	147	lossless
-outr2st	ss	147	lossless
 outrun	ss	147	lossless
 outzone	ss	191	lossless
 overdriv	ss	158	lossless
@@ -3639,7 +3625,6 @@ slammast	ss	6	lossless
 slapshot	ss	157	lossless
 slapshtr	ss	147	lossless
 slasho	ss	56	lossless
-slashout	ss	227	lossless
 slipstrm	ss	151	lossless
 slither	ss	157	lossless
 sliver	ss	75	lossless
@@ -3888,7 +3873,6 @@ stratab	ss	193	lossless
 stratgyx	ss	158	lossless
 stratof	ss	153	lossless
 streakng	ss	158	lossless
-streetg	ss	75	lossless
 streetg2	ss	75	lossless
 streetsm	ss	154	lossless
 stress	ss	147	lossless
@@ -4084,7 +4068,6 @@ thndzone	ss	162	lossless
 thoop	ss	194	lossless
 thoop2	ss	194	lossless
 threeds	ss	180	lossless
-thrild2	ss	158	lossless
 thrilld	ss	158	lossless
 thunderh	ss	158	lossless
 thunderj	ss	160	lossless
@@ -4422,7 +4405,6 @@ wacko	ss	150	lossless
 waidrive	ss	53	lossless
 wakuwak7	ss	142	lossless
 wallst	ss	179	lossless
-wangmid	ss	155	lossless
 wanted	ss	75	lossless
 wantsega	ss	147	lossless
 warahana	ss	173	lossless
@@ -4444,14 +4426,12 @@ wbbc97	ss	177	lossless
 wbeachvl	ss	75	lossless
 wbml	ss	147	lossless
 wboy	ss	147	lossless
-wcat3	ss	178	lossless
 wcatcher	ss	180	lossless
 wcbowl	ss	193	lossless
 wccf116	ss	227	lossless
 wccf212e	ss	227	lossless
 wccf310j	ss	227	lossless
 wccf420e	ss	227	lossless
-wcherry	ss	178	lossless
 wcvol95	ss	162	lossless
 wecleman	ss	158	lossless
 weddingr	ss	158	lossless
@@ -4599,7 +4579,6 @@ zombraid	ss	164	lossless
 zombrvn	ss	56	lossless
 zookeep	ss	157	lossless
 zooo	ss	299	lossless
-zortonbr	ss	170	lossless
 zunkyou	ss	147	lossless
 zunou	ss	56	lossless
 zupapa	ss	142	lossless
