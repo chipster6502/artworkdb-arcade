@@ -1038,7 +1038,6 @@ blmbycaru			blmbycar
 blnctry			blnctry
 block			block
 block2			arkanoid
-blockade			blockade
 blockbl			block
 blockcar			blockcar
 blockcarb			blockcar
@@ -1117,7 +1116,6 @@ bmcorerm			bmcorerm
 bmcpokr			bmcpokr
 bmdct			bmdct
 bmfinal			bmfinal
-bmiidx			bmiidx
 bmiidx2			bmiidx2
 bmiidx3			bmiidx3
 bmiidx3a			bmiidx3
@@ -1129,7 +1127,6 @@ bmiidx6a			bmiidx6
 bmiidx7			bmiidx7
 bmiidx7a			bmiidx7
 bmiidx8			bmiidx8
-bmiidxa			bmiidx
 bmiidxc2			bmiidxc2
 bmiidxs			bmiidxs
 bmiidxsa			bmiidxs
@@ -1510,7 +1507,6 @@ caspokera			caspoker
 caspokerb			caspoker
 castfant			castfant
 catacomb			catacomb
-catapult			catapult
 catch22			combat
 catchp			catchp
 caterplr			centiped
@@ -1567,7 +1563,7 @@ cclimbr2a			cclimbr2
 cclimbroper			cclimber
 cclimbrrod			cclimber
 cclownz			cclownz
-cdiscon1			cdiscon1
+cdiscon1			disco
 cdracula			cdracula
 cdsteljn			cdsteljn
 cecmatch			cecmatch
@@ -1588,7 +1584,7 @@ cfever1k			cfever1k
 cfever40			cfever40
 cfever50			cfever50
 cfever51			cfever51
-cfever61			cfever61
+cfever61			cfever51
 cfghtice			cfghtice
 cfield			cfield
 cfishing			cadanglr
@@ -1742,13 +1738,13 @@ ckongis			ckong
 ckongmc			ckong
 ckongmc2			ckong
 ckongo			ckong
-ckongpt2			ckongpt2
-ckongpt2a			ckongpt2
-ckongpt2b			ckongpt2
-ckongpt2b2			ckongpt2
-ckongpt2j			ckongpt2
-ckongpt2jeu			ckongpt2
-ckongpt2ss			ckongpt2
+ckongpt2			ckong
+ckongpt2a			ckong
+ckongpt2b			ckong
+ckongpt2b2			ckong
+ckongpt2j			ckong
+ckongpt2jeu			ckong
+ckongpt2ss			ckong
 ckongs			ckong
 clapapa			clapapa
 clapapa2			clapapa
@@ -2116,7 +2112,7 @@ csprints			csprint
 csprints1			csprint
 cstlevna			cstlevna
 csuperas			csuperas
-csweetht			cdiscon1
+csweetht			disco
 ct2k3sa			kof2001
 ct2k3sp			kof2001
 ctainv			beaminv
@@ -2718,8 +2714,8 @@ dodghero			dodghero
 dogfgt			dogfgt
 dogfgtj			dogfgt
 dogfgtu			dogfgt
-dogfight			dogfight
-dogfightp			dogfight
+dogfight			dogfgt
+dogfightp			dogfgt
 dogosokb			victroad
 dogosoke			victroad
 dogpatch			dogpatch
@@ -2761,9 +2757,6 @@ dorunrun			dorunrun
 dorunrun2			dorunrun
 dorunrunc			dorunrun
 dorunrunca			dorunrun
-dotrikun			dotrikun
-dotrikun2			dotrikun
-dotriman			dotrikun
 dotron			dotron
 dotrona			dotron
 dotrone			dotron
@@ -4287,8 +4280,6 @@ gunbuletw			ptblank
 gunbustr			gunbustr
 gunbustrj			gunbustr
 gunbustru			gunbustr
-gunchamp			gunchamp
-gunchamps			gunchamp
 gundamex			gundamex
 gundealr			gundealr
 gundealra			gundealr
@@ -4299,7 +4290,7 @@ gundhara			gundhara
 gundharac			gundhara
 gundl94			gundl94
 gundmct			gundmct
-gundmgd			gundmgd
+gundmgd			gundmct
 gundmxgd			gundmxgd
 gunfight			gunfight
 gunfighto			gunfight
@@ -6282,7 +6273,6 @@ mjlaman			mjlaman
 mjleague			mjleague
 mjlstory			mjlstory
 mjmaglmp			mjmaglmp
-mjmania			mjmania
 mjmyorn2			mjmyorn2
 mjmyornt			mjmyorn2
 mjmyorntr			mjmyorn2
@@ -6318,8 +6308,6 @@ mjvegas			mjvegasa
 mjvegasa			mjvegasa
 mjvegasb			mjvegasa
 mjvegasc			mjvegasa
-mjyarou			mjyarou
-mjyarou2			mjyarou
 mjyougo			mjyougo
 mjyuugi			mjyuugi
 mjyuugia			mjyuugi
@@ -6736,11 +6724,11 @@ mushik2e			mushik2e
 mushik2k			mushik2e
 mushik4e			mushik4e
 mushik4t			mushik4e
-mushikc			mushike
-mushike			mushike
-mushikeo			mushike
-mushikep			mushike
-mushikk			mushike
+mushikc			mushik2e
+mushike			mushik2e
+mushikeo			mushik2e
+mushikep			mushik2e
+mushikk			mushik2e
 mushisam			mushisam
 mushisama			mushisam
 mushisamb			mushisam
@@ -7314,7 +7302,6 @@ p47bl			p47
 p47j			p47
 p47je			p47
 p911			p911
-p9112			p9112
 p911ac			p911
 p911ed			p911
 p911j			p911
@@ -8563,7 +8550,6 @@ qbertj			qbert
 qbertqub			qbertqub
 qberttst			qbert
 qbtrktst			qbert
-qc			qc
 qcrayon			qcrayon
 qcrayon2			qcrayon2
 qdrmfgp			qdrmfgp
@@ -10085,7 +10071,7 @@ slapshot			slapshot
 slapshotj			slapshot
 slapshtr			slapshtr
 slasho			slasho
-slashout			slashout
+slashout			slasho
 slipstrm			slipstrm
 slipstrmh			slipstrm
 slither			slither
